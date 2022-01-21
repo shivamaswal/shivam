@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #160040;
+}
+.entry{
+    text-align: center;   
+    visibility: visible;
+}
+a{
+    text-decoration: none;
+    color: #160040;
+}
+img{
+    display: block;
+    margin: auto;
+    padding:7% 0 3% ;
+}
+.img-lg{
+    padding:0;
+    width: 60%;
+    margin:5% auto 0;
+
+}
+.entry-btn{
+    margin:0.5%;
+}
+.slide-show{
+    visibility: hidden;
+}

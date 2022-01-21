@@ -1,0 +1,182 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    /* box-sizing: border-box; */
+    text-align: center;
+    /* background-color: #A267AC; */
+    margin-top: 0;
+    font-family: 'Archivo', sans-serif;
+    color: #0F044C;
+    background-color: #EEEEEE;
+}
+h2{
+    font-family: 'Cabin', sans-serif;
+}
+
+/* NAVBAR  */
+.navbar{
+    padding-top: 0;
+    background-color: #141E61;
+}
+.navbar-list{
+    font-size: 1.1rem;
+    
+}
+.navbar-brand{
+    margin: 0.2% 28% 0 4%;
+    font-weight:600;
+}
+.navbar-items{
+    padding:1.2% 0 0; 
+    font-weight: 300;
+}
+.name{
+    font-family: 'Cabin', sans-serif;
+}
+/* title  */
+.container-fluid{
+    padding:5% 0 0 0;
+}
+ /* name image container  */
+ .name-img-container{
+     margin: 6% 0 2% 2%;
+
+ }
+.name-container{
+    text-align: left;
+}
+.name{
+    margin:20% 2% 0 22% ;
+    line-height: 77%;
+}
+.name p{
+    font-size: 2.2rem;
+    margin: 0;
+}
+
+.name h1{
+    font-size: 4.0rem;
+}
+
+.title-img-container{
+    text-align: center;
+    padding-left: 9%;
+
+}
+
+/* skills  */
+.skill-container{
+    padding: 4% 0 4% 0;
+    background-color: #D4ECDD;
+
+}
+.skill-container h2{
+    margin: 0 0 3.7% 0;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.carousel-img{
+    margin:auto ;
+}
+.skill-heading{
+    text-align: left;
+    padding-left: 3.6%;
+    margin: 1% ;
+    font-weight: 600;
+    font-size: 1.2rem;
+
+}
+.progress{
+    margin: 1% 0 1% 0;
+    border: 0.5px solid rgb(147, 147, 226);
+    height: 22px;
+}
+.progress-bar{
+    border: 1px solid #3131c5;
+    text-align: left;
+    padding-left: 3%;
+}
+.progress-bar:hover{
+    font-size: 1.1rem;
+    text-align: center;
+    background-color: rgb(22, 133, 177);
+}
+.progress:hover{
+    height: 30px;
+}
+
+/* interests  */
+#interests{
+    padding: 5% 0 3%;
+    background-color: #FFF;
+}
+.interests-heading
+{
+    font-size: 3rem;
+    font-weight: 500;
+}
+.interests-text{
+    margin-top: 2%;
+    font-size: 2.2rem;
+    font-weight: 400;
+
+}
+.carousel-control-prev{
+    color: black;
+}
+.fa-chevron-right:before {
+    color: black;
+}
+.fa-chevron-left:before {
+    color: black;
+}
+
+/* connect  */
+.connect-container{
+    padding: 2%;
+}
+.connect-container h2{
+    margin: 2% 0 0;
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+.connect-icon{
+    color: #0F044C;
+    margin:2%;
+
+}
+.connect-icon:hover{
+    color:#185ADB;
+}
+
+
+
+/* footer  */
+#footer{
+    background-color: rgb(119, 115, 115);
+    color:rgb(218, 211, 211);
+    font-size: 1.1rem;
+}
+#footer p{
+    margin:0;
+    padding:0.5% ;
+}
+
+    
+
+
+
+/* }
+#progress{
+    
+}
+#interests{
+    
+}
+#connect{
+    
+}
+#footer{
+
+} */
