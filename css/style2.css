@@ -2,13 +2,13 @@ html{
     overflow-x: hidden;
 }
 body{
-    /* box-sizing: border-box; */
+    overflow-x: hidden;
     text-align: center;
-    /* background-color: #A267AC; */
     margin-top: 0;
     font-family: 'Archivo', sans-serif;
     color: #0F044C;
     background-color: #EEEEEE;
+
 }
 h2{
     font-family: 'Cabin', sans-serif;
@@ -61,7 +61,7 @@ h2{
 
 .title-img-container{
     text-align: center;
-    padding-left: 9%;
+    /* padding-left: 9%; */
 
 }
 
@@ -163,6 +163,12 @@ h2{
     padding:0.5% ;
 }
 
+/* media Query */
+@media screen and (max-width: 666px) {
+    .title-img {
+      width:100%;
+    }
+  }
     
 
 
